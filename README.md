@@ -25,7 +25,7 @@ As aulas foram divididas em aulas teórias e aulas práticas em Python.
 
 ## Notebooks
 
-* **Aula Prática 1** - Noções de Pyhton e das bibliotecas `Numpy`, `Pandas`, `Matplotlib` e `seaborn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/claraduque/AulasDataScience/blob/main/Notebooks/AulaPratica1.ipynb)
+* **Aula Prática 1** - Noções de Pyhton e das bibliotecas `Numpy`, `Pandas`, `Matplotlib` e `seaborn`
 * **Aula Prática 2** - EDA (Exploratory Data Analysis) e Pré-processamento de dados
 * **Aula Prática 3** - Machine Learning Supervisionado (Classificação)
 * **Aula Prática 4** - Machine Learning Supervisionado (Regressão) + ML Não-Supervisionado
